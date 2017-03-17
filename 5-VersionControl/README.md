@@ -13,6 +13,7 @@ Git & GitHub Desktop Workshop
 BITSS New Delhi 2017
 ------------------------------
 by Garret Christensen
+and Ryan's Test Edits
 
 Thanks to [Dillon Niederhut](https://github.com/deniederhut/BITSS2016) for some original materials.
 
