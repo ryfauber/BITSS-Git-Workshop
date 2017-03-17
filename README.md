@@ -1,3 +1,6 @@
+Ryan Gosling > Ryan Fauber
+
+
 # BITSS New Delhi Reproducibility Training
 by [Garret Christensen](http://www.ocf.berkeley.edu/~garret)[1] and Julia Clark[2]
 
