@@ -1,4 +1,4 @@
-Ryan Gosling > Ryan Fauber
+Ryan Gosling <= Ryan Fauber
 
 
 # BITSS New Delhi Reproducibility Training
